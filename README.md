@@ -26,7 +26,7 @@
 4. Building with ld causes an error. so we need to change linker from ld to gcc
    > sudo apt install gcc-arm-linux-gnueabihf
 5. Write ~/.cargo/config following
-   shell```
+   ```
       [target.armv7-unknown-linux-gnueabihf]
       linker = "arm-linux-gnueabihf-gcc"
    ```shell
