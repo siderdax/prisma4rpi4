@@ -1,4 +1,4 @@
-# Prisma Engine with Raspberry Pi 4 built files
+# Prisma Engine source with Raspberry Pi 4 build files
 
 ## Original Source Code
 
