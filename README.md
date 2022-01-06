@@ -8,12 +8,12 @@
 
 1. https://www.prisma.io/docs/concepts/components/prisma-engines
 2. https://github.com/prisma/prisma-engines
-   1. Version of Raspbian
-      * No LSB modules are available.
-      * Distributor ID: Raspbian
-      * Description: Raspbian GNU/Linux 10 (buster)
-      * Release: 10
-      * Codename: buster
+1. Version of Raspbian
+   * No LSB modules are available.
+   * Distributor ID: Raspbian
+   * Description: Raspbian GNU/Linux 10 (buster)
+   * Release: 10
+   * Codename: buster
 
 ## Raspberry pi 4 additional prerequisites
 
