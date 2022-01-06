@@ -39,4 +39,4 @@
 ## Repository Links
 
 1. Prisma Engine for Raspberry Pi 4: https://github.com/siderdax/prisma4rpi4
-2. Example of Next.js + Prisma Engine for Raspberry Pi 4: 
+2. Example of Next.js + Prisma Engine for Raspberry Pi 4: https://github.com/siderdax/predictator
